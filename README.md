@@ -68,7 +68,7 @@ A simple note-taking and task management application with persistent data storag
 
 ### 🔹 Code Quiz (Frontend)
 
-**Repository:** [https://github.com/karandeep927/Code-Quiz](https://github.com/karandeep927/Code-Quiz)
+**Repository:** [Code Quiz](https://github.com/karandeep927/Code-Quiz)
 
 **Demo Link:** [Click To See]()
 
@@ -86,7 +86,7 @@ A programming questions quiz application built with React. The app fetches quiz 
 
 ### 🔹 Quiz App Backend (API)
 
-**Repository:** [Checkout](https://github.com/karandeep927/quiz-app-backend)
+**Repository:** [Quiz App API](https://github.com/karandeep927/quiz-app-backend)
 
 Backend API for the quiz application, responsible for serving quiz data and handling routes.
 
